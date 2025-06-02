@@ -50,7 +50,6 @@ Sou apaixonado por ciência, tecnologia e inovação — acredito que a computa�
   Solução baseada em fusão de dados e adaptação de domínio para IA embarcada na borda.
 
 ---
-
 ### 📊 Estatísticas
 
 ![Visualizações no perfil](https://komarev.com/ghpvc/?username=MateusSilva12&style=for-the-badge&color=blue)
@@ -58,7 +57,7 @@ Sou apaixonado por ciência, tecnologia e inovação — acredito que a computa�
 <p align="left">
   <img src="https://img.shields.io/github/followers/MateusSilva12?style=for-the-badge" alt="Seguidores">
   <img src="https://img.shields.io/github/stars/MateusSilva12?style=for-the-badge" alt="Estrelas">
-  <img src="https://img.shields.io/github/repos/MateusSilva12?style=for-the-badge" alt="Repositórios">
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MateusSilva12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
